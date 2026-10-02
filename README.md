@@ -1,4 +1,4 @@
 # my_first_project
 This is my first Git Repository.
 <br>
-Author - Amir Shekh
+Author - Shekh(apna islam)
